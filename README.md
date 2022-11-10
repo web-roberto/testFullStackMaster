@@ -26,10 +26,10 @@ estar yo en mi rama 'backend' local. hacer git push -u origin backend -> subo de
 git push -u origin backend -> subimos del mi rama actual y commit actual a la rama 'backend'.
 git push origin HEAD:backend -> pone el TAG actual como final del 'BACKEND'
 NO FUNCIONA BIEN? git push --tags
-git push origin "v1.0.4" (tambien puedes acceder a traves del TAG)
+git push origin "v1.0.4" (crea la versin en remoto pero todavia no la hemos subido)
 
 
-# version 1 punto 5 del backend
+# version 1 punto 6 del backend
 
 git log --oneline --graph --all
 
