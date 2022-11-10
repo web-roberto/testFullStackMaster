@@ -16,14 +16,14 @@ git add .
 git  tag v1.0.0 
 o git tag 
 git commit -m "v1.0.0"
-git push origin numero-versión
+git push origin backend
+git push
 
 # Crear una rama 'backend' en Github manualmente
 estar yo en mi rama 'backend' local. hacer git push -u origin backend -> subo de mi rama backend (mi ultimo commit que puede ser la versión 2) al backend remoto
 git push -u origin backend -> subimos del mi rama actual y commit actual a la rama 'backend'.
 git push (para segundas veces o mas )
 
-# version 2 punto 2del backend
-
+# version 2 punto 2 del backend- eso
 
 
