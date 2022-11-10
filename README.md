@@ -23,7 +23,7 @@ estar yo en mi rama 'backend' local. hacer git push -u origin backend -> subo de
 git push -u origin backend -> subimos del mi rama actual y commit actual a la rama 'backend'.
 git push (para segundas veces o mas )
 
-# version 2 del backend
+# version 2 punto 2del backend
 
 
 
