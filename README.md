@@ -11,5 +11,9 @@ git pull
 # git commit -m "feat: add backend first version"
 # Descargar a local una rama remota que no es la principal
 git checkout --track -b rama-remota origin/rama-remota
-
+# versiones
+git add .
+git  tag v1.0.0
+git commit -m "v1.0.0"
+git push origin numero-versión
 
