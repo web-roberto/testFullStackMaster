@@ -24,8 +24,13 @@ git push origin HEAD:backend (al final de la rama 'backend' de Github)
 git checkout backend (en mi rama backend)
 estar yo en mi rama 'backend' local. hacer git push -u origin backend -> subo de mi rama backend (mi ultimo commit que puede ser la versión 2) al backend remoto
 git push -u origin backend -> subimos del mi rama actual y commit actual a la rama 'backend'.
-git push origin HEAD:backend
+git push origin HEAD:backend -> pone el TAG actual como final del 'BACKEND'
+NO FUNCIONA BIEN? git push --tags
+git push origin "v1.0.4" (tambien puedes acceder a traves del TAG)
 
-# version 1 punto 4 del backend
+
+# version 1 punto 5 del backend
+
+git log --oneline --graph --all
 
 
